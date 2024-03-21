@@ -7,6 +7,8 @@ fastest way to pick champs from the bench using api calls
   • open Index.js (line 11) 
   
   • replace the ids in predefinedChampionIds with your desired champ ids
+    ![image](https://github.com/leopardbyte/aram-bench-swap-pengu/assets/164386226/9f8da636-922c-46e1-bf6b-7694fdce6703)
+
   
   • You can find most champ ids here: https://github.com/Najsr/League-Of-Legends-Champions-ID-List/blob/master/list.php
 
