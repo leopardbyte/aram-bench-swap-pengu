@@ -24,6 +24,7 @@ fastest way to pick champs from the bench using api calls
 
   ![image](https://github.com/leopardbyte/aram-bench-swap-pengu/assets/164386226/c6dc0b34-52e9-4c0f-8855-94c2ef4e50d7)
 
-
+# early stage:
+  • Future updates may include in client champ selection + reroll functionality + auto trade accept/ auto trade request for selected champs
 
 
